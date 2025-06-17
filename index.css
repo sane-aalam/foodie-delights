@@ -22,10 +22,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 2px solid black;
-    border-radius: 10px;
     background: white;
-    box-shadow: 0px 0px 5px 5px #6e6a6a70;
+    box-shadow: 0px 0px 2px 2px #6e6a6a70;
 }
 
 .logo {
